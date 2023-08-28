@@ -1,0 +1,12 @@
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\bin\Debug\net6.0\Api.GestaoEstoque.Proxy.deps.json
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\bin\Debug\net6.0\Api.GestaoEstoque.Proxy.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\bin\Debug\net6.0\Api.GestaoEstoque.Proxy.pdb
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\obj\Debug\net6.0\Api.GestaoEstoque.Proxy.csproj.AssemblyReference.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\obj\Debug\net6.0\Api.GestaoEstoque.Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\obj\Debug\net6.0\Api.GestaoEstoque.Proxy.AssemblyInfoInputs.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\obj\Debug\net6.0\Api.GestaoEstoque.Proxy.AssemblyInfo.cs
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\obj\Debug\net6.0\Api.GestaoEstoque.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\obj\Debug\net6.0\Api.GestaoEstoque.Proxy.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\obj\Debug\net6.0\refint\Api.GestaoEstoque.Proxy.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\obj\Debug\net6.0\Api.GestaoEstoque.Proxy.pdb
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Proxy\obj\Debug\net6.0\ref\Api.GestaoEstoque.Proxy.dll

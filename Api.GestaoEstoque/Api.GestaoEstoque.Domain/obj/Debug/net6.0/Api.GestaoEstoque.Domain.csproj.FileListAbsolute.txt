@@ -1,0 +1,12 @@
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\bin\Debug\net6.0\Api.GestaoEstoque.Domain.deps.json
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\bin\Debug\net6.0\Api.GestaoEstoque.Domain.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\bin\Debug\net6.0\Api.GestaoEstoque.Domain.pdb
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\obj\Debug\net6.0\Api.GestaoEstoque.Domain.csproj.AssemblyReference.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\obj\Debug\net6.0\Api.GestaoEstoque.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\obj\Debug\net6.0\Api.GestaoEstoque.Domain.AssemblyInfoInputs.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\obj\Debug\net6.0\Api.GestaoEstoque.Domain.AssemblyInfo.cs
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\obj\Debug\net6.0\Api.GestaoEstoque.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\obj\Debug\net6.0\Api.GestaoEstoque.Domain.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\obj\Debug\net6.0\refint\Api.GestaoEstoque.Domain.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\obj\Debug\net6.0\Api.GestaoEstoque.Domain.pdb
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Domain\obj\Debug\net6.0\ref\Api.GestaoEstoque.Domain.dll

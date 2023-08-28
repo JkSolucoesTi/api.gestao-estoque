@@ -1,0 +1,12 @@
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\bin\Debug\net6.0\Api.GestaoEstoque.Bootstrap.deps.json
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\bin\Debug\net6.0\Api.GestaoEstoque.Bootstrap.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\bin\Debug\net6.0\Api.GestaoEstoque.Bootstrap.pdb
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\obj\Debug\net6.0\Api.GestaoEstoque.Bootstrap.csproj.AssemblyReference.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\obj\Debug\net6.0\Api.GestaoEstoque.Bootstrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\obj\Debug\net6.0\Api.GestaoEstoque.Bootstrap.AssemblyInfoInputs.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\obj\Debug\net6.0\Api.GestaoEstoque.Bootstrap.AssemblyInfo.cs
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\obj\Debug\net6.0\Api.GestaoEstoque.Bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\obj\Debug\net6.0\Api.GestaoEstoque.Bootstrap.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\obj\Debug\net6.0\refint\Api.GestaoEstoque.Bootstrap.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\obj\Debug\net6.0\Api.GestaoEstoque.Bootstrap.pdb
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Bootstrap\obj\Debug\net6.0\ref\Api.GestaoEstoque.Bootstrap.dll

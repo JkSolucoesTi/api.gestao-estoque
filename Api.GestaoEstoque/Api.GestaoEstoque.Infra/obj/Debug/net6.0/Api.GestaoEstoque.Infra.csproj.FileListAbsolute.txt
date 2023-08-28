@@ -1,0 +1,12 @@
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\bin\Debug\net6.0\Api.GestaoEstoque.Infra.deps.json
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\bin\Debug\net6.0\Api.GestaoEstoque.Infra.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\bin\Debug\net6.0\Api.GestaoEstoque.Infra.pdb
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\obj\Debug\net6.0\Api.GestaoEstoque.Infra.csproj.AssemblyReference.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\obj\Debug\net6.0\Api.GestaoEstoque.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\obj\Debug\net6.0\Api.GestaoEstoque.Infra.AssemblyInfoInputs.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\obj\Debug\net6.0\Api.GestaoEstoque.Infra.AssemblyInfo.cs
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\obj\Debug\net6.0\Api.GestaoEstoque.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\obj\Debug\net6.0\Api.GestaoEstoque.Infra.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\obj\Debug\net6.0\refint\Api.GestaoEstoque.Infra.dll
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\obj\Debug\net6.0\Api.GestaoEstoque.Infra.pdb
+C:\Users\Gonçalves\Desktop\Estudo\Labs\Angularv16\git\api.gestao-estoque\Api.GestaoEstoque\Api.GestaoEstoque.Infra\obj\Debug\net6.0\ref\Api.GestaoEstoque.Infra.dll
