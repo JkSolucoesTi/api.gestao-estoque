@@ -6,16 +6,19 @@ namespace Api.GestaoEstoque.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
-        {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
-
         private readonly ILogger<WeatherForecastController> _logger;
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
         }       
-    }
+
+        [HttpGet]
+        [Route("HealthCheck")]
+        public async Task<IActionResult> HealthCheck()
+        {
+            var data = new { mensagem = "Eu estou online" };
+            return Ok(data);
+        }
+    }    
 }

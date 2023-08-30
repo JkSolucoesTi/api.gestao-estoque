@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Api.GestaoEstoque.Infra\Api.GestaoEstoque.Infra.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "Api.GestaoEstoque": {
+    "Api.GestaoEstoque.Development": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

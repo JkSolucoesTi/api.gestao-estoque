@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "AprPrmCZyuN8vooHMpA2LpWauajvdGwP3AtNyfFDopCTHmlwCwSmm/4EaOwiIbX5Tpq/1Q96sleDPEoAV4F3pA==",
+  "dgSpecHash": "9Z+XD5e42zzgVipygvzAe8wXrsNj/7btflDoJxXRec4fpAqolZXafQYNeGIyhacoi7mkO2OvbmrH5vV6dAN1yg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Bootstrap\\Api.GestaoEstoque.Bootstrap.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Gonçalves\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.configuration.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\Gonçalves\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\Gonçalves\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.7.23375.6\\microsoft.extensions.primitives.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\Gonçalves\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Gonçalves\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gonçalves\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Gonçalves\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\Gonçalves\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Gonçalves\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gonçalves\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

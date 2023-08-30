@@ -4,6 +4,68 @@
     "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Bootstrap\\Api.GestaoEstoque.Bootstrap.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.App\\Api.GestaoEstoque.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.App\\Api.GestaoEstoque.App.csproj",
+        "projectName": "Api.GestaoEstoque.App",
+        "projectPath": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.App\\Api.GestaoEstoque.App.csproj",
+        "packagesPath": "C:\\Users\\Gonçalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gonçalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Infra\\Api.GestaoEstoque.Infra.csproj": {
+                "projectPath": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Infra\\Api.GestaoEstoque.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Bootstrap\\Api.GestaoEstoque.Bootstrap.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +74,74 @@
         "projectPath": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Bootstrap\\Api.GestaoEstoque.Bootstrap.csproj",
         "packagesPath": "C:\\Users\\Gonçalves\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Bootstrap\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gonçalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.App\\Api.GestaoEstoque.App.csproj": {
+                "projectPath": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.App\\Api.GestaoEstoque.App.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0-preview.7.23375.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Infra\\Api.GestaoEstoque.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Infra\\Api.GestaoEstoque.Infra.csproj",
+        "projectName": "Api.GestaoEstoque.Infra",
+        "projectPath": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Infra\\Api.GestaoEstoque.Infra.csproj",
+        "packagesPath": "C:\\Users\\Gonçalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gonçalves\\Desktop\\Estudo\\Labs\\Angularv16\\git\\api.gestao-estoque\\Api.GestaoEstoque\\Api.GestaoEstoque.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +172,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0-preview.7.23375.6, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
