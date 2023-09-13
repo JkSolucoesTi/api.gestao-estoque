@@ -1,40 +1,32 @@
 ﻿using Microsoft.Extensions.Configuration;
-using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Data.Common;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Api.GestaoEstoque.Infra
 {
-    public class BaseRepositorio
+    public class BaseRepositorio : IDisposable
     {
         private readonly IConfiguration _configuration;
-        private IDbConnection _connection;
+        protected SqlConnection _connection;
 
         public BaseRepositorio(IConfiguration configuration)
         {            
             _configuration = configuration;
         }
 
-        protected IDbConnection Connection
+        protected SqlConnection Connection()
         {
-            get
+            if (_connection == null)
+             {
+              _connection = new SqlConnection(_configuration.GetConnectionString("DefaultConnection"));
+              _connection.Open();
+             }
+            else if (_connection.State == ConnectionState.Closed)
             {
-                if (_connection == null)
-                {
-                    _connection = new SqlConnection(_configuration.GetConnectionString("DefaultConnection"));
-                    _connection.Open();
-                }
-                else if (_connection.State == ConnectionState.Closed)
-                {
-                    _connection.Open();
-                }
-                return _connection;
+              _connection.Open();
             }
+          return _connection;
         }
 
         public void Dispose()

@@ -1,10 +1,6 @@
 ﻿using Api.GestaoEstoque.App.Interface;
 using Api.GestaoEstoque.Infra.Interface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Api.GestaoEstoque.Infra.Signature;
 
 namespace Api.GestaoEstoque.App.Application
 {
@@ -20,7 +16,7 @@ namespace Api.GestaoEstoque.App.Application
 
         public void Autenticar()
         {
-            _loginRepositorio.ObterDadosLogin();
+            _loginRepositorio.ObterDadosLogin(new AutenticacaoSignature() { Email="",Password=""});
         }
     }
 }
