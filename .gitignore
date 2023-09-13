@@ -1,0 +1,73 @@
+# Arquivos e pastas específicos para .NET
+*.obj
+*.bin
+*.user
+*.suo
+*.tmp
+*.swp
+*.bak
+*.cache
+*.log
+[Tt]emp/
+[Bb]in/
+[Pp]ublish/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Diretórios gerados pelo Visual Studio
+.vscode/
+.vs/
+_ReSharper*/
+__VSCode/
+*.sln.iml
+*.suo
+*.userprefs
+
+# Arquivos de configuração do Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Padrões específicos para .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# Diretório de saída do Rider (IDE)
+.idea/
+.idea/
+
+# Diretórios específicos do .NET
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+Debug/
+Release/
+[Rr][Ee][Ll][Ee][Aa][Ss][Ee]*/
+[Dd][Ee][Bb][Uu][Gg]*/
+[Dd][Oo][Cc][Uu][Mm][Ee][Nn][Tt][Ss]/
+[Dd][Oo][Cc][Uu][Mm][Ee][Nn][Tt][Ss]*/
+
+# Pacotes do NuGet
+packages/
+*.nupkg
+nuget.exe
+~$*
+
+# Arquivos temporários do Rider (IDE)
+.idea/
+
+# Cache e configurações do Rider (IDE)
+.idea/
+.idea/
+
+# Arquivos de configuração do Rider (IDE)
+.idea
+
+# Pacotes do .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
