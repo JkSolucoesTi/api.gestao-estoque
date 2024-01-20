@@ -11,4 +11,17 @@
     <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DataBase\DCL\Grant\" />
+    <Folder Include="DataBase\DCL\Revoke\" />
+    <Folder Include="DataBase\DDL\Create\" />
+    <Folder Include="DataBase\DDL\Alter\" />
+    <Folder Include="DataBase\DDL\Drop\" />
+    <Folder Include="DataBase\DDL\Truncate\" />
+    <Folder Include="DataBase\DML\Insert\" />
+    <Folder Include="DataBase\DML\Delete\" />
+    <Folder Include="DataBase\DML\Update\" />
+    <Folder Include="DataBase\Script\" />
+  </ItemGroup>
+
 </Project>

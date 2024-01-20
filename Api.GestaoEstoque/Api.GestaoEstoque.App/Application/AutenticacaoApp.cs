@@ -1,4 +1,7 @@
-﻿using Api.GestaoEstoque.App.Interface;
+﻿using Api.GestaoEstoque.App.Converter;
+using Api.GestaoEstoque.App.Interface;
+using Api.GestaoEstoque.App.Result;
+using Api.GestaoEstoque.App.Signature;
 using Api.GestaoEstoque.Infra.Interface;
 using Api.GestaoEstoque.Infra.Signature;
 
@@ -14,9 +17,21 @@ namespace Api.GestaoEstoque.App.Application
             _loginRepositorio = loginRepositorio;
         }
 
-        public void Autenticar()
+        public async Task<LoginResult> Autenticar(LoginSignature loginSignature)
         {
-            _loginRepositorio.ObterDadosLogin(new AutenticacaoSignature() { Email="",Password=""});
+
+            if (string.IsNullOrEmpty(loginSignature.Usuario) 
+                || string.IsNullOrEmpty(loginSignature.Senha))
+            {
+                return LoginConverter.ToLoginResultError(loginSignature);
+            }
+                              
+            var resultado = 
+                    await _loginRepositorio.ObterDadosLogin(new AutenticacaoSignature() 
+                { Email = loginSignature.Usuario, Password = loginSignature.Senha });
+
+            return LoginConverter.ToLoginResultSuccess(resultado);
+
         }
     }
 }

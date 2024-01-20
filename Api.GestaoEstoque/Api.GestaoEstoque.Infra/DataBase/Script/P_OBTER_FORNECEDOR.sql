@@ -1,0 +1,26 @@
+USE [GestaoEstoque]
+GO
+
+/****** Object:  StoredProcedure [dbo].[P_OBTER_FORNECEDOR]    Script Date: 05/11/2023 01:22:14 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[P_OBTER_FORNECEDOR]
+AS
+BEGIN
+
+	SELECT 
+	Id,
+	Cnpj,
+	IE,
+	RazaoSocial
+	FROM FORNECEDOR
+	ORDER BY Id
+END
+GO
+
+

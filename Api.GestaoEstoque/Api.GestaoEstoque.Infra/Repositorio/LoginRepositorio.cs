@@ -18,21 +18,23 @@ namespace Api.GestaoEstoque.Infra.Repositorio
 
         public async Task<AutenticacaoResponse> ObterDadosLogin(AutenticacaoSignature autenticacaoSignature)
         {
-            var comando = new SqlCommand("P_OBTER_LOGIN", Connection());
-            comando.CommandType = CommandType.StoredProcedure;
 
-            comando.Parameters.AddWithValue("@Email", autenticacaoSignature.Email);
-            comando.Parameters.AddWithValue("@Senha", autenticacaoSignature.Password);
+                var comando = new SqlCommand("P_OBTER_LOGIN", Connection());
+                comando.CommandType = CommandType.StoredProcedure;
 
-            using(var reader = await comando.ExecuteReaderAsync())
-            {
-                if (await reader.ReadAsync())
+                comando.Parameters.AddWithValue("@Email", autenticacaoSignature.Email);
+                comando.Parameters.AddWithValue("@Senha", autenticacaoSignature.Password);
+
+                using (var reader = await comando.ExecuteReaderAsync())
                 {
-                    var nome = reader["Email"].ToString();
-                    return new AutenticacaoResponse() { Nome = nome };
+                    if (await reader.ReadAsync())
+                    {
+                    var usuario = new AutenticacaoResponse();
+                    usuario.Nome = reader.GetString(reader.GetOrdinal("Nome"));
+                    return usuario;
+                    }
                 }
-            }            
+                return new AutenticacaoResponse();        
         }
-
     }
 }

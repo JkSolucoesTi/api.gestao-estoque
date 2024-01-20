@@ -8,6 +8,8 @@
 *.bak
 *.cache
 *.log
+*.dll
+*.pdb
 [Tt]emp/
 [Bb]in/
 [Pp]ublish/

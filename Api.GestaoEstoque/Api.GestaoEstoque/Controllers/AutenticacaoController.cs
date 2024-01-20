@@ -1,7 +1,5 @@
-﻿using Api.GestaoEstoque.App.Application;
+﻿using Api.GestaoEstoque.App.Signature;
 using Api.GestaoEstoque.App.Interface;
-using Api.GestaoEstoque.Signature;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api.GestaoEstoque.Controllers
@@ -20,10 +18,10 @@ namespace Api.GestaoEstoque.Controllers
 
         [HttpPost]
         [Route("Login")]
-        public IActionResult Login(LoginSignature loginSignature)
+        public async Task<IActionResult> Login(LoginSignature loginSignature)
         {
-            _autenticaocaoApp.Autenticar();
-            return null;
+            var login = await _autenticaocaoApp.Autenticar(loginSignature);
+            return Ok(login);
         }
 
     }

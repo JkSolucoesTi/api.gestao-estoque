@@ -18,9 +18,20 @@ namespace Api.GestaoEstoque.Bootstrap
         {
             /*Injeção de Dependencia - Application*/
             service.AddScoped<IAutenticacaoApp, AutenticacaoApp>();
+            service.AddScoped<IRamoAtividadeApp, RamoAtividadeApp>();
+            service.AddScoped<IFornecedorApp, FornecedorApp>();
+            service.AddScoped<IEstoqueApp, EstoqueApp>();
 
             /*Injeção de Dependencia - Repositorio*/
             service.AddScoped<ILoginRepositorio, LoginRepositorio>();
+            service.AddScoped<IRamoAtividadeRepositorio, RamoAtividadeRepositorio>();
+            service.AddScoped<IEstoqueRepositorio, EstoqueRepositorio>();
+
+            service.AddScoped<IFornecedorRepositorio, FornecedorRepositorio>();
+            service.AddScoped<IEmailRepositorio, EmailRepositorio>();
+            service.AddScoped<IEnderecoRepositorio, EnderecoRepositorio>();
+            service.AddScoped<IResponsavelRepositorio, ResponsavelRepositorio>();
+
         }
     }
 }
