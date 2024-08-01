@@ -1,0 +1,33 @@
+
+# Build results
+
+**/[Dd]ebug/
+**/[Rr]elease/
+**/x64/
+**/x86/
+**/build/
+**/[Bb]in/
+**/[Oo]bj/
+
+# Rider
+.idea/
+
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+
+# Others
+*.log
+*.tlog
+*.pdb
+*.cache
+*.config
+*.csproj.user
